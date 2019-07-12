@@ -5,7 +5,7 @@
 
 function Common(){
   const a = 90;
-
+    let j ='kkkk'
    return 'NI99fdfdO'
 }
 Common.prototype={
