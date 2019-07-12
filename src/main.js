@@ -4,8 +4,8 @@
 // var cookie =require("./cookie");
 
 function Common(){
-  const a = 900000000000;
-    let j ='kkkk'
+  const a = 900;
+    let j ='k12122kkk'
    return 'NI99fdfdO'
 }
 Common.prototype={
