@@ -5,6 +5,7 @@
 function Common(){
   let arr = [];
 }
+
 Common.prototype={
 	constructor:Common,
 	//获取url 地址参数 start
@@ -13,7 +14,8 @@ Common.prototype={
 	})(),
 	// url 转码；
 	UrlEncode:function (str){
-        var ret="";
+
+        var ret='';
         var strSpecial="!\"#$%&'()*+,/:;<=>?[]^`{|}~%";
         var tt= "";
         for(var i=0;i<str.length;i++){
