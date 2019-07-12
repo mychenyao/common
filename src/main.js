@@ -4,7 +4,7 @@
 // var cookie =require("./cookie");
 
 function Common(){
-  const a = 900000000000;
+  const a = 9;
     let j ='kkkk'
    return 'NI99fdfdO'
 }
