@@ -1,11 +1,8 @@
 /*
 常用公共方法封装；
 */
-// var cookie =require("./cookie");
+// var cookie =require("./cookie");kk
 function Common(){
-  let arr = [];
-
-  
 }
 
 Common.prototype={
