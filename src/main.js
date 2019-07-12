@@ -6,6 +6,7 @@ function Common(){
     CONST JKFJDKFJDJ
 }
 Common.prototype={
+
 	constructor:Common,
 	//获取url 地址参数 start
 	UrlSearch:(function(){
