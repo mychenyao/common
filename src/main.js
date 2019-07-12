@@ -2,11 +2,11 @@
 常用公共方法封装；
 */
 // var cookie =require("./cookie");
-
+const arr = []
 function Common(){
-  const a = 9;
-    let j ='kkkk'
+  const a = 90-------0;    let j ='k12122kkk'
    return 'NI99fdfdO'
+
 }
 Common.prototype={
 	constructor:Common,
