@@ -3,7 +3,7 @@
 */
 // var cookie =require("./cookie");
 function Common(){
-  let arr = [];
+  let arr = '';
 }
 
 Common.prototype={
@@ -42,7 +42,8 @@ Common.prototype={
   		},
   		setSession:function(KEY,VALUE){
   			var jsonString = sessionStorage.getItem(key);
-  			 	jsonString = jsonString || "[]";
+           jsonString = jsonString || "[]";
+          
   			 	sessionStorage.setItem(KEY, JSON.stringify(VALUE));
   		},
   		getLocalStorage:function(KEY){
