@@ -3,6 +3,7 @@
 */
 // var cookie =require("./cookie");
 function Common(){
+  let arr = [];
 }
 Common.prototype={
 	constructor:Common,
@@ -11,7 +12,6 @@ Common.prototype={
 		return new UrlSearch;
 	})(),
 	// url 转码；
-    // CEJSFJLKJL
 	UrlEncode:function (str){
         var ret="";
         var strSpecial="!\"#$%&'()*+,/:;<=>?[]^`{|}~%";
