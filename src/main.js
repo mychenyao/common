@@ -4,8 +4,6 @@
 // var cookie =require("./cookie");
 function Common(){
   let arr = [];
-
-  
 }
 
 Common.prototype={
