@@ -3,6 +3,7 @@
 */
 // var cookie =require("./cookie");
 function Common(){
+    CONST JKFJDKFJDJ
 }
 Common.prototype={
 	constructor:Common,
