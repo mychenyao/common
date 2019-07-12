@@ -4,7 +4,7 @@
 // var cookie =require("./cookie");
 
 function Common(){
-    
+   return 'NIHAO'
 }
 Common.prototype={
 	constructor:Common,
